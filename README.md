@@ -16,7 +16,7 @@ This was my first project in game development. The primary goal was to explore t
 * **C# Scripting:** Applied object-oriented programming principles to handle game logic and class communication.
 * **Asset Integration:** Managed the pipeline for importing and utilizing 2D sprites and audio assets.
 
-## Installation
+## Installation (Only on Windows)
 1. Clone this repo on your device
 2. Open the .exe file
 
