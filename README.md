@@ -22,5 +22,5 @@ This was my first project in game development. The primary goal was to explore t
 
 
 ## Credits
-* [cite_start]**Developer:** Antonio Saboanu [cite: 1]
+* **Developer:** Antonio Saboanu 
 * **Assets:** Visual and audio assets were sourced from public domains for educational purposes.
