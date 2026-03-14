@@ -1,4 +1,4 @@
-# FloppyBird - Unity 2D Development Project
+# FlappyBirdCopy - Unity 2D Development Project
 
 A functional clone of the classic arcade game "Flappy Bird," developed to master the fundamentals of the **Unity Engine** and **C# scripting**.
 
