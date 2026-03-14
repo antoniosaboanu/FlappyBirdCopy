@@ -17,6 +17,8 @@ This was my first project in game development. The primary goal was to explore t
 * **Asset Integration:** Managed the pipeline for importing and utilizing 2D sprites and audio assets.
 
 ## Installation
+1. Clone this repo on your device
+2. Open the .exe file
 
 
 ## Credits
